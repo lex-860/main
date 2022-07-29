@@ -3,12 +3,12 @@
 ## Template
 - As `<who>` `<when>` `<where>`, I want `<what>` because `<why>` 
 
-## 1. Comprar Moeda
+## `U01` Comprar Moeda
 - Como usuário na lex
 - Eu quero realizar a compra de 40 lexcoin ao preço atual
 - Para minha carteira
 
-### Cenário 1
+### Cenário 1 - [Diagrama](https://balsamiq.cloud/s96ib5a/pg260a7)
 - Dado que eu tenho $ 50 de saldo na minha carteira principal
 - E desejo comprar 40 lexcoin na cotação atual para minha carteira
 - Quando houver uma venda disponível nesta quantidade e cotação
