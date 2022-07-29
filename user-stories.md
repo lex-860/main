@@ -15,8 +15,8 @@
   - E desejo comprar 40 lexcoin na cotação atual para minha carteira
   - E na cotação atual de $ 0.25 que vale então $ 10 no valor bruto
   - E que a LEX cobra 0,005%
-  - Quando houver uma venda disponível nesta quantidade e cotação
-- Então realizo a compra
+- Quando houver uma venda disponível nesta quantidade e cotação
+- Então eu consigo ver que minha compra foi realizada
   - E é debitado $ 10,05 da minha carteira principal
   - E é depositado 40 lexcoin na minha carteira
   - E é debitado 40 lexcoin da carteira do vendedor da oferta 
@@ -30,8 +30,10 @@
 
 ### Cenário 01 - [Diagrama](https://balsamiq.cloud/s96ib5a/pg260a7)
 - Dado que eu tenho 200 lexcoin de saldo 
-- E desejo vender 40 para um preço por mim especificado
-- Então eu lanço uma oferta de venda 
+  - E $ 0 de saldo na carteira principal
+- Quando eu lançar a oferta de 40 lexcoins para venda 
+  - E que eu informe no preço de $ 0.50 cada lexcoin
+- Então eu consigo ver que minha oferta de venda foi realizada
 
 ## Refs
 - [User Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
