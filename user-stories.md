@@ -45,8 +45,9 @@
 - Eu desejo realizá-lo 
   - E eu informe meus dados básicos como nome, nascimento e outros não mais que 5 campos
   - E o pix é gerado automáticamente aleatório de 16 dígitos gerado automaticamente pela api
+  - [extra]
   - E eu informo também a minha senha e o nickname (nome do usuário na aplicação) com perfil USER
-  - E a api entende que eu como cliente possuo relação com o usuário logado criado .. 
+  - E a api entende que eu, como cliente possuo relação com o usuário logado criado .. 
   - Ou seja, a classe cliente (que é uma conta) possui um user (spring security)
 - Então eu recebo a mensagem que meu cadastro foi realizado com sucesso
 
