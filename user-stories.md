@@ -35,6 +35,21 @@
   - E que eu informe no preço de $ 0.50 cada lexcoin
 - Então eu consigo ver que minha oferta de venda foi realizada
 
+## `U03` Cadastrar Cliente
+- Como usuário cliente da lex
+- Eu quero realizar o meu cadastro
+- Para que eu possa realizar atividades na plataforma
+
+### Cenário 01
+- Dado que eu não tenho cadastro na lex
+- Eu desejo realizá-lo 
+  - E eu informe meus dados básicos como nome, nascimento e outros não mais que 5 campos
+  - E o pix é gerado automáticamente aleatório de 16 dígitos gerado automaticamente pela api
+  - E eu informo também a minha senha e o nickname (nome do usuário na aplicação) com perfil USER
+  - E a api entende que eu como cliente possuo relação com o usuário logado criado .. 
+  - Ou seja, a classe cliente (que é uma conta) possui um user (spring security)
+- Então eu recebo a mensagem que meu cadastro foi realizado com sucesso
+
 ## Refs
 - [User Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
 - [Exemplo de Estória de Usuário e Critérios de Aceitação](https://www.researchgate.net/figure/Figura-2-Exemplo-de-historia-de-usuario_fig2_228842194)
