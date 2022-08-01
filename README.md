@@ -7,7 +7,7 @@
 
 # Diagramas 
 - [Diagrama de Classes](https://miro.com/app/board/uXjVOjCNgsU=/?share_link_id=200632097459) - Relacionamento entre Entidades
-- [Diagrama de Sequência](https://swimlanes.io/#nZE7DsIwDIb3nMIXgAN0QAJWBsRDzKYxyFJaV44pcHvSUpWXVBBT5Difle+3sQXKYEchl4LABOKZi4AlxTGLc26j6GkupamEQAqjCaxJa86p7WTg3HPd9FdUSWQTvW7jCZUlA9lbYj16iXC6XwJBjmrEigADMxZcaz+hFAhNDRhBDqSWzgTUVHr89x8NTF50gO9U77ThBeOn9WsqcykqRR0KpxNL2R5YC1TIW+YXjW3l0R75tRnMZJ8inYaEfjdZ4hF7k4/nbztvduzcDQ==) - Fluxo Compra de Moeda
+- [Diagrama de Sequência](https://swimlanes.io/#nZJBasMwEEX3PsVcIBfIopCYdhUopM0BxtYEBIomjMbG6XW6yEF8sY5t7EItQuhKIP3/mfdH6jXQFt5C0zE4gpIvV8GiKEoWIWXBkqMKh0ACmxdYrj9IWl+b9fVM2qAszr+KwXVKpvB8pCsnb2+3LbxXaokOHSdwDM2kAIIaRckLAmSjDr6VTFBkCMMLYAI+k6idhtNSdPifkeZ5hgByLNmM5W6d8okdpnwZ6wqn6iQvXwEfMPZ3K1wFY8L+3n/zgD/qnkXd2cqC/7KUue6xrj1XtoFdMOPzwEeqqTJknZAfG39/04wNQuMoDn8A) - Fluxo Compra de Moeda
 
 # Negócio
 - Como funciona uma compra em corretora, exemplo: [Ordens e livro de negociações](https://www.mercadobitcoin.com.br/info/execucao-ordem)
