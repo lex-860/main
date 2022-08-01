@@ -13,7 +13,7 @@
 
 ### Diagramas de Sequência
 - [Realizar Compra](https://swimlanes.io/d/sNVVBuMZD)
-- [Fluxo de Venda](https://swimlanes.io/d/2EhWFqtQb) 
+- [Fluxo do Pedido de Venda](https://swimlanes.io/d/Z-tQUZG8f) 
 - [Cadastrar Cliente](https://swimlanes.io/d/gWjA7MGK_)
 
 # Negócio
