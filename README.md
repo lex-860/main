@@ -2,7 +2,7 @@
 
 # Ferramentas
 - [User Story Mapping](https://miro.com/app/board/o9J_k0ouqRY=/?share_link_id=567794541243)
-- [Lean Canvas](https://next.canvanizer.com/canvas/iFSlG2Skf1ZnJ)
+- [Lean Canvas](https://next.canvanizer.com/canvas/rByhRwN6r1GFg)
 - [Estórias de Usuário](https://github.com/lex-860/main/blob/main/user-stories.md)
 
 # Diagramas
