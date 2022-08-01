@@ -10,7 +10,7 @@
 - Eu quero realizar a compra de moedas ao preço atual
 - Debitando do saldo da minha carteira principal em $
 
-### Cenário 01 - [Diagrama](https://balsamiq.cloud/s96ib5a/pg260a7)
+### Cenário 01
 - Dado que eu tenho $ 50 de saldo na minha carteira principal
   - E desejo comprar 40 lexcoin na cotação atual para minha carteira
   - E na cotação atual de $ 0.25 que vale então $ 10 no valor bruto
@@ -28,14 +28,14 @@
 - Eu quero realizar a venda de moedas por um valor específico
 - Para receber na minha carteira principal em $
 
-### Cenário 01 - [Diagrama](https://balsamiq.cloud/s96ib5a/pg260a7)
+### Cenário 01
 - Dado que eu tenho 200 lexcoin de saldo 
   - E $ 0 de saldo na carteira principal
 - Quando eu lançar a oferta de 40 lexcoins para venda 
   - E que eu informe no preço de $ 0.50 cada lexcoin
 - Então eu consigo ver que minha oferta de venda foi realizada
 
-## `U03` Cadastrar Cliente
+## `U03` Cadastrar Cliente 
 - Como usuário cliente da lex
 - Eu quero realizar o meu cadastro
 - Para que eu possa realizar atividades na plataforma
