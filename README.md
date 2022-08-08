@@ -19,3 +19,7 @@
 # Negócio
 - Como funciona uma compra em corretora, exemplo: [Ordens e livro de negociações](https://www.mercadobitcoin.com.br/info/execucao-ordem)
 - 
+
+# Releases
+## R3
+- Detalhar aqui
