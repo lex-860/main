@@ -7,8 +7,9 @@
 
 # Diagramas
 
+
 ### Gerais 
-- [Relacionamento entre Entidades](https://miro.com/app/board/uXjVOjCNgsU=/?share_link_id=200632097459) - Diagrama de Classes
+- [Relacionamento entre Entidades](https://miro.com/app/board/uXjVOjCNgsU=/?share_link_id=412342066378) - Diagrama de Classes
 - [Fluxo de Compra](https://balsamiq.cloud/s96ib5a/pg260a7) - Ilustração do fluxo de compra com a corretora - Balsamiq
 
 ### Diagramas de Sequência
