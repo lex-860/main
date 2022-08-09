@@ -23,4 +23,6 @@
 
 # Releases
 ## R3
-- Detalhar aqui
+- Transição para desacoplar Serviço de Corretora/Mercado (vendas e compra)
+  -  Ajustes na separação
+- Fazer ambos os projetos monólito, mercado/corretora no ar 
